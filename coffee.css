@@ -609,10 +609,7 @@ font-family: "Miniver", sans-serif;
     }
     .testimonials-section .swiper-slide-button{
       display: none;
-    }
-    .footer-section .section-content{
-      flex-direction: column;
-      gap: 20px;
+    
     }
 
  }
