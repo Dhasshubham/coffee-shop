@@ -611,6 +611,10 @@ font-family: "Miniver", sans-serif;
       display: none;
     
     }
+  .footer-section .section-content{
+      flex-direction: column;
+      gap: 20px;
+    }
 
  }
     
