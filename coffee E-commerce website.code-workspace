@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/responsive-coffee-website-html-and-css-images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "coffee E-commerce website"
+	}
+}
